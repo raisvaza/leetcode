@@ -4,6 +4,9 @@ class Solution(object):
         :type s: str
         :type t: str
         :rtype: bool
+
+        Time complexity: O(n)
+        Space complexity: O(1)
         """
         
         length = len(s)
